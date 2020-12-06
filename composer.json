@@ -1,5 +1,5 @@
 {
-    "name": "olimortimer/laravelshoppingcart",
+    "name": "cutepotato/laravelshoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -15,6 +15,10 @@
         {
             "name": "Oli Mortimer",
             "email": "oli@olimortimer.com"
+        },
+        {
+            "name": "Marko Zoranovich",
+            "email": "marcoafreeman@gmail.com"
         }
     ],
     "require": {
